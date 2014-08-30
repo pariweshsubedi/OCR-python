@@ -1,4 +1,4 @@
-A OCR software for English language with wx-Python GUI in the frontend. 
+A OCR software for English language with wx-Python based GUI for the frontend. 
 
 
 <b>Dependencies</b>
