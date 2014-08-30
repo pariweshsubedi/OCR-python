@@ -23,5 +23,5 @@ Screenshots :
 
 
 3. Hit the OCR button. Once the OCR is completed, the OCR'ed text is copied to the clipboard.<br\>
-![OCR complete](https://github.com/pariweshsubedi/OCR-python/blob/master/screenshots/selectImage.png "OCR complete")<br\>
+![OCR complete](https://github.com/pariweshsubedi/OCR-python/blob/master/screenshots/OCRcomplete.png "OCR complete")<br\>
 
